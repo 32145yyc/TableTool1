@@ -1,7 +1,7 @@
 {
   "version": "1.2.0",
   "release_notes": "✨ 新增功能：\n• 数据筛选器（多条件组合筛选）\n• 统计信息分析（列统计、导出报告）\n• 查找替换功能（批量替换）\n• 数据去重功能\n• 列管理器（隐藏/显示列、调整顺序）\n• 帮助手册（F1查看）\n• 实时网速监控\n\n🐛 修复：\n• 优化大数据量显示性能\n• 修复CSV编码问题\n• 改进排序稳定性\n\n📦 下载说明：\n1. 点击下方链接下载最新版本\n2. 解压后运行 表格处理工具.exe\n3. 首次使用请阅读帮助手册",
-  "download_url": "https://github.com/32145yyc/TableTool/releases/download/v1.1.0/表格处理工具.exe",
+  "download_url": "https://github.com/32145yyc/TableTool/releases/download/v1.2.0/表格处理工具.exe",
   "type": "normal",
-  "date": "2026-01-19"
+  "date": "2026-04-19"
 }
